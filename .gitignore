@@ -1,0 +1,16 @@
+# Node en builds
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Blender-reservekopieën
+*.blend1
+
+# Te groot voor GitHub (> 100 MB) en opnieuw te maken:
+# - forest_assets: python panther/scripts/fetch_forest_assets.py (Poly Haven, CC0)
+# - de bosscène: blender -b panther/panther_ausf_g_detailed.blend --python panther/scripts/render_forest.py -- --no-render
+panther/forest_assets/
+panther/panther_forest_scene.blend

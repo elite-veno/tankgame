@@ -1,0 +1,78 @@
+{
+ "tiles": [
+  {
+   "name": "pine_tree_01_a_LOD0",
+   "angle": 0,
+   "tileHeight": 20.7823,
+   "tileWidth": 10.3911,
+   "treeHeight": 20.375,
+   "baseOffset": 0.1235,
+   "trunkDiameter": 0.244
+  },
+  {
+   "name": "pine_tree_01_a_LOD0",
+   "angle": 90,
+   "tileHeight": 20.7823,
+   "tileWidth": 10.3911,
+   "treeHeight": 20.375,
+   "baseOffset": 0.1235,
+   "trunkDiameter": 0.244
+  },
+  {
+   "name": "pine_tree_01_b_LOD0",
+   "angle": 0,
+   "tileHeight": 15.1789,
+   "tileWidth": 7.5894,
+   "treeHeight": 14.881,
+   "baseOffset": 0.062,
+   "trunkDiameter": 0.267
+  },
+  {
+   "name": "pine_tree_01_b_LOD0",
+   "angle": 90,
+   "tileHeight": 16.6035,
+   "tileWidth": 8.3017,
+   "treeHeight": 14.881,
+   "baseOffset": 0.062,
+   "trunkDiameter": 0.259
+  },
+  {
+   "name": "pine_tree_01_c_LOD0",
+   "angle": 0,
+   "tileHeight": 17.8949,
+   "tileWidth": 8.9474,
+   "treeHeight": 17.544,
+   "baseOffset": 0.0816,
+   "trunkDiameter": 0.245
+  },
+  {
+   "name": "pine_tree_01_c_LOD0",
+   "angle": 90,
+   "tileHeight": 17.8949,
+   "tileWidth": 8.9474,
+   "treeHeight": 17.544,
+   "baseOffset": 0.0816,
+   "trunkDiameter": 0.262
+  },
+  {
+   "name": "fir_tree_01_a_LOD0",
+   "angle": 0,
+   "tileHeight": 19.3036,
+   "tileWidth": 9.6518,
+   "treeHeight": 18.925,
+   "baseOffset": 0.109,
+   "trunkDiameter": 0.245
+  },
+  {
+   "name": "fir_tree_01_a_LOD0",
+   "angle": 90,
+   "tileHeight": 19.3036,
+   "tileWidth": 9.6518,
+   "treeHeight": 18.925,
+   "baseOffset": 0.109,
+   "trunkDiameter": 0.245
+  }
+ ],
+ "tileWidthPx": 512,
+ "tileHeightPx": 1024
+}

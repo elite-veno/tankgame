@@ -1,0 +1,13 @@
+# tekstbestanden met LF in de repository
+* text=auto eol=lf
+
+# binaire bestanden nooit omzetten of mergen
+*.blend binary
+*.glb binary
+*.stl binary
+*.hdr binary
+*.exr binary
+*.png binary
+*.jpg binary
+*.woff binary
+*.woff2 binary
